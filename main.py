@@ -61,7 +61,7 @@ with st.sidebar:
     )
 
     # 파일 업로드
-    uploaded_file = st.file_uploader("여기에 업로드한 파일만 보고 대답합니다(PDF만가능)", type=["pdf"])
+    uploaded_file = st.file_uploader("MODE2: 여기에 업로드한 파일만 보고 대답합니다 (PDF만가능)", type=["pdf"])
 
     # 초기화 버튼 생성
     clear_btn = st.button("대화 초기화")
