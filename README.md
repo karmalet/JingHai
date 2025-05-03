@@ -2,7 +2,10 @@
 
 본 프로젝트는 [Teddy ](https://github.com/teddylee777) 님의 프로젝트를 참고하였습니다.
 
+## 특징
 
+범용적인 LLM 모델(예: ChatGPT)의 오답을 피하고, 사용자가 보유한 특정 파일에 근거한 정확한 답을 제공합니다
+![ChatGPT의 오답 예시](ChatGPT_wrong_answer.png)
 
 ## MODE1: 海派京派 소설파일만 참고
 
