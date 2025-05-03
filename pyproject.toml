@@ -19,7 +19,8 @@ langchain-teddynote = "^0.3.40"
 python-dotenv = "^1.0.1"
 langchain-community = "^0.3.19"
 langchain-anthropic = "^0.2.4"
-faiss = "^1.10.0"
+faiss-cpu = "^1.8.0"
+tiktoken = "^0.7"
 
 
 [build-system]
