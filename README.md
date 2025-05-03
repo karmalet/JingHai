@@ -1,6 +1,6 @@
 # 프로젝트 소개
 
-본 프로젝트는 [Teddy ](teddylee777@gmail.com) 님의 프로젝트를 참고하였습니다.
+본 프로젝트는 [Teddy ](https://github.com/teddylee777) 님의 프로젝트를 참고하였습니다.
 
 
 
