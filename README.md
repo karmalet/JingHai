@@ -8,6 +8,7 @@
 * ChatGPT의 오답 예시
 ![ChatGPT의 오답 예시](ChatGPT_wrong_answer.png)
 * 본 모델의 정답 예시
+![본 모델의 정답 예시](RAG_right_answer.png)
 
 ## MODE1: 海派京派 소설파일만 참고
 
