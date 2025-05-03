@@ -5,7 +5,9 @@
 ## 특징
 
 범용적인 LLM 모델(예: ChatGPT)의 오답을 피하고, 사용자가 보유한 특정 파일에 근거한 정확한 답을 제공합니다
+* ChatGPT의 오답 예시
 ![ChatGPT의 오답 예시](ChatGPT_wrong_answer.png)
+* 본 모델의 정답 예시
 
 ## MODE1: 海派京派 소설파일만 참고
 
