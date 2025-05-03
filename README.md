@@ -2,8 +2,6 @@
 
 본 프로젝트는 [Teddy ](teddylee777@gmail.com) 님의 프로젝트를 참고하였습니다.
 
-- 강의: [RAG 비법노트](https://fastcampus.co.kr/data_online_teddy)
-- 프로젝트 링크: https://link.teddynote.com/PERPLEX
 
 
 ## MODE1: 海派京派 소설파일만 참고
@@ -17,5 +15,5 @@
 
 ## 유의사항
 
-무료가 아닙니다. 실행할 때마다 과금되니 조금씩만 써 주세요
+무료가 아닙니다. 실행할 때마다 과금되니 조금씩만 써 주세요 ㅠㅠ
 
