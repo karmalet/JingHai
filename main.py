@@ -57,7 +57,7 @@ with st.sidebar:
     # 모델 선택 메뉴
     selected_model = st.selectbox(
         "MODE 1: LLM 선택", ["gpt-4o-mini", "gpt-4-turbo", "gpt-4o", \
-                          "claude-3-5-haiku-latest","claude-3-5-sonnet-latest","claude-3-opus-latest"], index=0
+                          "claude-haiku-4-5-20251001","claude-sonnet-4-6","claude-opus-4-6"], index=0
     )
 
     # 파일 업로드
